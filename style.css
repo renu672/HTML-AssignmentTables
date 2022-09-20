@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin: 20px ;
+}
+th {
+    background-color:rgb(165, 161, 161)
+    
+ }
+table  {
+    width: 80%;
+   text-align: center;
+
+   
+}
+table ,th ,td {
+    margin:auto;
+    border:1px solid black;
+    border-collapse: collapse;
+    padding: 10px
+}
+.items{
+    background-color:rgb(234, 229, 229)
+}
+
